@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: b5cc708897896a94bade3a8305f9fb2f
+guid: e821ea720529b83469b1996cd34bb8f0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -9097320057649925575
-    second: thechamber2_0
+      213: 1727338790419611439
+    second: thechamber_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -48,13 +48,13 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 78
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
-  alphaUsage: 1
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 0
   alphaIsTransparency: 1
   spriteTessellationMethod: 0
   spriteTessellationDetail: -1
@@ -76,7 +76,7 @@ TextureImporter:
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 3
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -115,7 +115,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: thechamber2_0
+      name: thechamber_0
       rect:
         serializedVersion: 2
         x: 0
@@ -130,14 +130,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9327db37b93dfb180800000000000000
-      internalID: -9097320057649925575
+      spriteID: f2fb6b16a7db8f710800000000000000
+      internalID: 1727338790419611439
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: thechamber2_1
+      name: thechamber_1
       rect:
         serializedVersion: 2
         x: 234
@@ -152,14 +152,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b5f89d756be8d1a42a653b741c0c9b48
-      internalID: -679695094
+      spriteID: b98ee210c921af047bf57e1aaa12d197
+      internalID: 2049123386
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: thechamber2_2
+      name: thechamber_2
       rect:
         serializedVersion: 2
         x: 0
@@ -174,14 +174,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bc880a4f297af4f4e9be5a582838f3bd
-      internalID: -694323335
+      spriteID: a524f3a278a1fe24fa4bad16e66175d6
+      internalID: 774163784
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: thechamber2_3
+      name: thechamber_3
       rect:
         serializedVersion: 2
         x: 234
@@ -196,14 +196,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1fd5627c6023938419f1fe3d76111cce
-      internalID: 645105137
+      spriteID: 30a4feb005314b243966261882d5db6c
+      internalID: -1471122288
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: thechamber2_4
+      name: thechamber_4
       rect:
         serializedVersion: 2
         x: 0
@@ -218,14 +218,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 372e281b3b3ae6640bd211bcc7b781cb
-      internalID: 2096453544
+      spriteID: adf86fee5f4b09148b418bc13054231a
+      internalID: 612754212
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: thechamber2_5
+      name: thechamber_5
       rect:
         serializedVersion: 2
         x: 234
@@ -240,8 +240,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9f9c4a6265cdf7146a6845052c1f4a37
-      internalID: 112165247
+      spriteID: 6a63a40cdccf6c2418156467a2223c63
+      internalID: 712594596
       vertices: []
       indices: 
       edges: []
@@ -250,7 +250,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 3b3d7724fb6bfb94b89a633c1322e7fe
+    spriteID: 00bd4e0ceef6e4e469fa3bd926044dd2
     internalID: 0
     vertices: []
     indices: 
@@ -260,14 +260,14 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":2.0,"y":3.0},"gridSpriteSize":{"x":234.0,"y":156.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":2.0,"y":3.0},"gridSpriteSize":{"x":234.0,"y":156.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      thechamber2_0: -9097320057649925575
-      thechamber2_1: -679695094
-      thechamber2_2: -694323335
-      thechamber2_3: 645105137
-      thechamber2_4: 2096453544
-      thechamber2_5: 112165247
+      thechamber_0: 1727338790419611439
+      thechamber_1: 2049123386
+      thechamber_2: 774163784
+      thechamber_3: -1471122288
+      thechamber_4: 612754212
+      thechamber_5: 712594596
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
