@@ -1,0 +1,3500 @@
+fileFormatVersion: 2
+guid: 5a8db7f78083a1440b359d6882050a4c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3262201753647033438
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_0
+  - first:
+      213: 7584386884985480044
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_1
+  - first:
+      213: -1218281574300637233
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_2
+  - first:
+      213: -1525600488156843591
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_3
+  - first:
+      213: -1701459542698186600
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_4
+  - first:
+      213: -4514166844245531240
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_5
+  - first:
+      213: -7823641777986600732
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_6
+  - first:
+      213: 8325329450495011618
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_7
+  - first:
+      213: -5460597874616057734
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_8
+  - first:
+      213: 5424614661107088623
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_9
+  - first:
+      213: -5845121013610500078
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_10
+  - first:
+      213: 8417067847018312229
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_11
+  - first:
+      213: 8026103638193280525
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_12
+  - first:
+      213: -3634644177288914599
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_13
+  - first:
+      213: 6710095448275915508
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_14
+  - first:
+      213: -9040392608827927949
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_15
+  - first:
+      213: 8774812406555737921
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_16
+  - first:
+      213: -7029874443644381331
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_17
+  - first:
+      213: 614707861180636251
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_18
+  - first:
+      213: 2408652709142337337
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_19
+  - first:
+      213: -5417260908865612509
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_20
+  - first:
+      213: -1801709746700114197
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_21
+  - first:
+      213: 4759099834429487988
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_22
+  - first:
+      213: -3684446621977334255
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_23
+  - first:
+      213: -7545253081086540405
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_24
+  - first:
+      213: -8439612489406381541
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_25
+  - first:
+      213: 464049637352252341
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_26
+  - first:
+      213: 6581946058728388811
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_27
+  - first:
+      213: 5499661036579345757
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_28
+  - first:
+      213: -3256327797127021982
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_29
+  - first:
+      213: 3501097538959817050
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_30
+  - first:
+      213: -1043369392240735602
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_31
+  - first:
+      213: 3422001313425429182
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_32
+  - first:
+      213: -2341861663432971901
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_33
+  - first:
+      213: 623223774177552392
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_34
+  - first:
+      213: 8405240986252219206
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_35
+  - first:
+      213: -8747442025748125723
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_36
+  - first:
+      213: 7055465608278386897
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_37
+  - first:
+      213: 7975685026268084413
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_38
+  - first:
+      213: 6950424407349811966
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_39
+  - first:
+      213: -6990911427815105329
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_40
+  - first:
+      213: -3137844460264567712
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_41
+  - first:
+      213: 605262383479515481
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_42
+  - first:
+      213: -7901845153884088870
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_43
+  - first:
+      213: -2517905676701749911
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_44
+  - first:
+      213: -5081586253826054166
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_45
+  - first:
+      213: -3268919536344190498
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_46
+  - first:
+      213: 8579644817615612508
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_47
+  - first:
+      213: 4559169752982339408
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_48
+  - first:
+      213: 5276016410059115581
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_49
+  - first:
+      213: 7445972168602311814
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_50
+  - first:
+      213: -6823624278928146259
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_51
+  - first:
+      213: 3783106175456867520
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_52
+  - first:
+      213: 3376789457944092752
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_53
+  - first:
+      213: -5267832377185971966
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_54
+  - first:
+      213: -6347464568933356847
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_55
+  - first:
+      213: 2336757302838678112
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_56
+  - first:
+      213: -4786875314808419960
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_57
+  - first:
+      213: 5286211384207063946
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_58
+  - first:
+      213: 1050534971734799735
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_59
+  - first:
+      213: 6139780287673267540
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_60
+  - first:
+      213: 3687173269988447059
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_61
+  - first:
+      213: 7016019983591543011
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_62
+  - first:
+      213: 8323545259484993029
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_63
+  - first:
+      213: -4957162506083992913
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_64
+  - first:
+      213: -1702790354889439547
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_65
+  - first:
+      213: 8140200493838161814
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_66
+  - first:
+      213: -5632267183220096424
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_67
+  - first:
+      213: -939844890477329541
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_68
+  - first:
+      213: -6618727107672817378
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_69
+  - first:
+      213: 6877952354534370529
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_70
+  - first:
+      213: 9177464864611524038
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_71
+  - first:
+      213: 8809515927299673297
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_72
+  - first:
+      213: 4877245144174262521
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_73
+  - first:
+      213: 1483424899993638357
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_74
+  - first:
+      213: 8074402076398494495
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_75
+  - first:
+      213: -488902035463255419
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_76
+  - first:
+      213: -7577563002537404837
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_77
+  - first:
+      213: 5951839864804836589
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_78
+  - first:
+      213: 2003995609308680750
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_79
+  - first:
+      213: 596944973234057115
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_80
+  - first:
+      213: -2695181194184088843
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_81
+  - first:
+      213: -8748488782897003020
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_82
+  - first:
+      213: 5372424870195829674
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_83
+  - first:
+      213: 7679417046330586129
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_84
+  - first:
+      213: -7574595245167355104
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_85
+  - first:
+      213: -3134335391090129828
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_86
+  - first:
+      213: 3884855169609341945
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_87
+  - first:
+      213: -1882815011018239839
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_88
+  - first:
+      213: -5934732400603490852
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_89
+  - first:
+      213: 3173451559685468226
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_90
+  - first:
+      213: -1307140835552668370
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_91
+  - first:
+      213: -230578703420707386
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_92
+  - first:
+      213: -2476495771105931292
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_93
+  - first:
+      213: 7923709217335768578
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_94
+  - first:
+      213: 3667902795438519225
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_95
+  - first:
+      213: -2077276314734143522
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_96
+  - first:
+      213: 6123992728281967963
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_97
+  - first:
+      213: 6884873853486816092
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_98
+  - first:
+      213: 1296463123223948652
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_99
+  - first:
+      213: 4726787279700989407
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_100
+  - first:
+      213: -2326168434411590993
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_101
+  - first:
+      213: 4970951631345000406
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_102
+  - first:
+      213: 6519195560533366998
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_103
+  - first:
+      213: 4113348984655333098
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_104
+  - first:
+      213: -477831847954623332
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_105
+  - first:
+      213: -5447423964168716058
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_106
+  - first:
+      213: 1325528340868738001
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_107
+  - first:
+      213: 7842633021552850136
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_108
+  - first:
+      213: -8919606540513493502
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_109
+  - first:
+      213: -2458203129924268162
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_110
+  - first:
+      213: 5473926113675707839
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_111
+  - first:
+      213: 1135130873913231318
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_112
+  - first:
+      213: -2650298286392228074
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_113
+  - first:
+      213: 9114514689178216883
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_114
+  - first:
+      213: 1501570386666457344
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_115
+  - first:
+      213: -6823457081328989500
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_116
+  - first:
+      213: -253876148022391567
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_117
+  - first:
+      213: 6121709043189553324
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_118
+  - first:
+      213: -9210174254724544504
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_119
+  - first:
+      213: -4272448850187841004
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_120
+  - first:
+      213: 3882748204393188516
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_121
+  - first:
+      213: -6902142616400334297
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_122
+  - first:
+      213: 3086633135272305112
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_123
+  - first:
+      213: -9063663597803241675
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_124
+  - first:
+      213: 1764515620155744962
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_125
+  - first:
+      213: -6445447781501372038
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_126
+  - first:
+      213: 6145425085293835541
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_127
+  - first:
+      213: 7512039997761850271
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_128
+  - first:
+      213: 452830178103826652
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_129
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 384
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ca9c7063ba54d20800000000000000
+      internalID: 3262201753647033438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 386
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63e0b620b7214960800000000000000
+      internalID: 7584386884985480044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 386
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc72867ec5bc71fe0800000000000000
+      internalID: -1218281574300637233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_3
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 386
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1bf32607af3dae0800000000000000
+      internalID: -1525600488156843591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_4
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 384
+        width: 65
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898a6c58f833368e0800000000000000
+      internalID: -1701459542698186600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_5
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 386
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89526e71c257a51c0800000000000000
+      internalID: -4514166844245531240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_6
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 386
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0043d1147dc6390800000000000000
+      internalID: -7823641777986600732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_7
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 386
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b6ad69603898370800000000000000
+      internalID: 8325329450495011618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_8
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 386
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70c14e1a2f0834b0800000000000000
+      internalID: -5460597874616057734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_9
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 386
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fecf9ae1b4a184b40800000000000000
+      internalID: 5424614661107088623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_10
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 386
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210339a2865f1eea0800000000000000
+      internalID: -5845121013610500078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_11
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 386
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52273ef7c9e6fc470800000000000000
+      internalID: 8417067847018312229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_12
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 386
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d061bfc1cb2726f60800000000000000
+      internalID: 8026103638193280525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_13
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 384
+        width: 90
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95990cfb0662f8dc0800000000000000
+      internalID: -3634644177288914599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_14
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 386
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f29373324c0f1d50800000000000000
+      internalID: 6710095448275915508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_15
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 386
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3729eb002d21a8280800000000000000
+      internalID: -9040392608827927949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_16
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 386
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ff17f846566c970800000000000000
+      internalID: 8774812406555737921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_17
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 386
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67dafa707ed07e90800000000000000
+      internalID: -7029874443644381331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_18
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 386
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5cdf4afa81e78800800000000000000
+      internalID: 614707861180636251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_19
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 386
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93716bb90e04d6120800000000000000
+      internalID: 2408652709142337337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_20
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 386
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325947fb7e502d4b0800000000000000
+      internalID: -5417260908865612509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_21
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 386
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6a49ff78a0ff6e0800000000000000
+      internalID: -1801709746700114197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 386
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b3ac9a518bb0240800000000000000
+      internalID: 4759099834429487988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_23
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 386
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e272f71573edcc0800000000000000
+      internalID: -3684446621977334255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_24
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 386
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b854a699c40e94790800000000000000
+      internalID: -7545253081086540405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_25
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 349
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b128bf6e72970ea80800000000000000
+      internalID: -8439612489406381541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_26
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 348
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3a780cfa2a07600800000000000000
+      internalID: 464049637352252341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_27
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 349
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8b9495115c75b50800000000000000
+      internalID: 6581946058728388811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_28
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 348
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d555e560398b25c40800000000000000
+      internalID: 5499661036579345757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_29
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 349
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a730c0f133fc2d0800000000000000
+      internalID: -3256327797127021982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_30
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 348
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59b1bd79a5669030800000000000000
+      internalID: 3501097538959817050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_31
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 349
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ac9f5d0153581f0800000000000000
+      internalID: -1043369392240735602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_32
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 348
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb294a360146d7f20800000000000000
+      internalID: 3422001313425429182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_33
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 350
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389e8fd8939008fd0800000000000000
+      internalID: -2341861663432971901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_34
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 353
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8086e6b78b226a800800000000000000
+      internalID: 623223774177552392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_35
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 300
+        width: 106
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6431e15e42a65a470800000000000000
+      internalID: 8405240986252219206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 329
+        width: 83
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7a5f1d2d7da9680800000000000000
+      internalID: -8747442025748125723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_37
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 338
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d82b6ad69c0ae160800000000000000
+      internalID: 7055465608278386897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_38
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 337
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db87c1f36435fae60800000000000000
+      internalID: 7975685026268084413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_39
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 339
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa5a4e6c2ed47060800000000000000
+      internalID: 6950424407349811966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_40
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 306
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc9cd8881b4bfe90800000000000000
+      internalID: -6990911427815105329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_41
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 306
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06cc081a6132474d0800000000000000
+      internalID: -3137844460264567712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_42
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 306
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959e3335ee2566800800000000000000
+      internalID: 605262383479515481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_43
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 304
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5d894c2b1075290800000000000000
+      internalID: -7901845153884088870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_44
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 305
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96da042a02a9e0dd0800000000000000
+      internalID: -2517905676701749911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_45
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 306
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7a03db9349a79b0800000000000000
+      internalID: -5081586253826054166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_46
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 306
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1bedc400772a2d0800000000000000
+      internalID: -3268919536344190498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_47
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 306
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5aeff43185011770800000000000000
+      internalID: 8579644817615612508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_48
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 304
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fb73d1cbc654f30800000000000000
+      internalID: 4559169752982339408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_49
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 305
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c84bea8fc283940800000000000000
+      internalID: 5276016410059115581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_50
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 294
+        width: 63
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c5cf4ac38655760800000000000000
+      internalID: 7445972168602311814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_51
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 286
+        width: 85
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0c1c51fdd9d41a0800000000000000
+      internalID: -6823624278928146259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_52
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 263
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c471b7d50b408430800000000000000
+      internalID: 3783106175456867520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_53
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 263
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050aa0afe14ccde20800000000000000
+      internalID: 3376789457944092752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_54
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 263
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2015785fc56e4e6b0800000000000000
+      internalID: -5267832377185971966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_55
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 263
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da6958da9649e7a0800000000000000
+      internalID: -6347464568933356847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_56
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 263
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062dff1e264dd6020800000000000000
+      internalID: 2336757302838678112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_57
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 263
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88902cc534a919db0800000000000000
+      internalID: -4786875314808419960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_58
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 263
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8bb9431f356c5940800000000000000
+      internalID: 5286211384207063946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_59
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 263
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775b066adff349e00800000000000000
+      internalID: 1050534971734799735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_60
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 263
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455f5b544a1e43550800000000000000
+      internalID: 6139780287673267540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_61
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 263
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3531af6bd887b2330800000000000000
+      internalID: 3687173269988447059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_62
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 270
+        width: 79
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0140ba009ed5160800000000000000
+      internalID: 7016019983591543011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_63
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 272
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5065d7f305c238370800000000000000
+      internalID: 8323545259484993029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_64
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 272
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa7af207fe943bb0800000000000000
+      internalID: -4957162506083992913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_65
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 272
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c68ad9a1397e58e0800000000000000
+      internalID: -1702790354889439547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_66
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 245
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697dea3783dc7f070800000000000000
+      internalID: 8140200493838161814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_67
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 243
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852831086da26d1b0800000000000000
+      internalID: -5632267183220096424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_68
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 159
+        width: 16
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7302273d0005f2f0800000000000000
+      internalID: -939844890477329541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_69
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 200
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11c9e953ce8524a0800000000000000
+      internalID: -6618727107672817378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_70
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 203
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec251ab935637f50800000000000000
+      internalID: 6877952354534370529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_71
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 201
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd5cc98ba7ec5f70800000000000000
+      internalID: 9177464864611524038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_72
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 202
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dcc7d1af00b14a70800000000000000
+      internalID: 8809515927299673297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_73
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 182
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8710d2e947fa340800000000000000
+      internalID: 4877245144174262521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_74
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 180
+        width: 43
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d51717461f269410800000000000000
+      internalID: 1483424899993638357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_75
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 182
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13a86198e90e0070800000000000000
+      internalID: 8074402076398494495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_76
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 182
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a4f3660321739f0800000000000000
+      internalID: -488902035463255419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_77
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 180
+        width: 59
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b569d9ac89617d690800000000000000
+      internalID: -7577563002537404837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_78
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 182
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de483b5a2de299250800000000000000
+      internalID: 5951839864804836589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_79
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 182
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e225948936f9fcb10800000000000000
+      internalID: 2003995609308680750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_80
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 182
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f22185a46c84800800000000000000
+      internalID: 596944973234057115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_81
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 182
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2285bcbfac89ad0800000000000000
+      internalID: -2695181194184088843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_82
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 182
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f54fedadcf179680800000000000000
+      internalID: -8748488782897003020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_83
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 182
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab1f7284ffae8a40800000000000000
+      internalID: 5372424870195829674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_84
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 182
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1143d98cd15c29a60800000000000000
+      internalID: 7679417046330586129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_85
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 180
+        width: 70
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02bdf66a1c1a1e690800000000000000
+      internalID: -7574595245167355104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_86
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 182
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c544327719a9084d0800000000000000
+      internalID: -3134335391090129828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_87
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 182
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb9764a137c9e530800000000000000
+      internalID: 3884855169609341945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_88
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 182
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a01c7a19b5eed5e0800000000000000
+      internalID: -1882815011018239839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_89
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 149
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd51701435893ada0800000000000000
+      internalID: -5934732400603490852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_90
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 137
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24036fe316d5a0c20800000000000000
+      internalID: 3173451559685468226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_91
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 137
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25d979e55a1cdde0800000000000000
+      internalID: -1307140835552668370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_92
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 135
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cda6d114e1dcccf0800000000000000
+      internalID: -230578703420707386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_93
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 137
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef497b9738b1add0800000000000000
+      internalID: -2476495771105931292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_94
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 117
+        width: 67
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20679c23d8ba6fd60800000000000000
+      internalID: 7923709217335768578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_95
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 76
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b376c8b82207e230800000000000000
+      internalID: 3667902795438519225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_96
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 78
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed750f792380c23e0800000000000000
+      internalID: -2077276314734143522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_97
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 72
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d6258a0faccf450800000000000000
+      internalID: 6123992728281967963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_98
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 56
+        width: 64
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5bd478ca4cfb8f50800000000000000
+      internalID: 6884873853486816092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_99
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 58
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d28247756fdf110800000000000000
+      internalID: 1296463123223948652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_100
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 58
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5996fbcfbe89140800000000000000
+      internalID: 4726787279700989407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_101
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 19
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faaab2b222ac7bfd0800000000000000
+      internalID: -2326168434411590993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_102
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 19
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df97f5eb2e5cf440800000000000000
+      internalID: 4970951631345000406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_103
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 19
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d815e672d5d87a50800000000000000
+      internalID: 6519195560533366998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 35
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6489bab1d851930800000000000000
+      internalID: 4113348984655333098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_105
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94db4847766e59f0800000000000000
+      internalID: -477831847954623332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_106
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 35
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e006ca24ccd664b0800000000000000
+      internalID: -5447423964168716058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_107
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 19
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dba139c009356210800000000000000
+      internalID: 1325528340868738001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_108
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 16
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4f7695e21a6dc60800000000000000
+      internalID: 7842633021552850136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_109
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 34
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e31780c11373480800000000000000
+      internalID: -8919606540513493502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_110
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 6
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f4c170745b2edd0800000000000000
+      internalID: -2458203129924268162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_111
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 14
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5006c5cca47fb40800000000000000
+      internalID: 5473926113675707839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_112
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 14
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d74d21048bc0cf00800000000000000
+      internalID: 1135130873913231318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_113
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 16
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617c3ca10cf383bd0800000000000000
+      internalID: -2650298286392228074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_114
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 20
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b92c8ca1d24d7e70800000000000000
+      internalID: 9114514689178216883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_115
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 18
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009008e9f46a6d410800000000000000
+      internalID: 1501570386666457344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_116
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 18
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca034fcfe53e41a0800000000000000
+      internalID: -6823457081328989500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_117
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 20
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc4e2c0dfc0a7cf0800000000000000
+      internalID: -253876148022391567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_118
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 20
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca81c99c0fda4f450800000000000000
+      internalID: 6121709043189553324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_119
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 20
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80802bb1053ee2080800000000000000
+      internalID: -9210174254724544504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_120
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 18
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412178b386635b4c0800000000000000
+      internalID: -4272448850187841004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_121
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 7
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac44239bea42e530800000000000000
+      internalID: 3882748204393188516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_122
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 7
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7227f580cd9a630a0800000000000000
+      internalID: -6902142616400334297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_123
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 5
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d12bdb9b7ce5da20800000000000000
+      internalID: 3086633135272305112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_124
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 7
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f7c49aaf5673280800000000000000
+      internalID: -9063663597803241675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_125
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 7
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2e2049b91dc7810800000000000000
+      internalID: 1764515620155744962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_126
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 7
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79f745646b2d86a0800000000000000
+      internalID: -6445447781501372038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_127
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 7
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515b6b22e8fe84550800000000000000
+      internalID: 6145425085293835541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_128
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 7
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b0f15d390204860800000000000000
+      internalID: 7512039997761850271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_129
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 7
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd89475d5a6c84600800000000000000
+      internalID: 452830178103826652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_0: 3262201753647033438
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_1: 7584386884985480044
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_10: -5845121013610500078
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_100: 4726787279700989407
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_101: -2326168434411590993
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_102: 4970951631345000406
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_103: 6519195560533366998
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_104: 4113348984655333098
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_105: -477831847954623332
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_106: -5447423964168716058
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_107: 1325528340868738001
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_108: 7842633021552850136
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_109: -8919606540513493502
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_11: 8417067847018312229
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_110: -2458203129924268162
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_111: 5473926113675707839
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_112: 1135130873913231318
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_113: -2650298286392228074
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_114: 9114514689178216883
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_115: 1501570386666457344
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_116: -6823457081328989500
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_117: -253876148022391567
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_118: 6121709043189553324
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_119: -9210174254724544504
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_12: 8026103638193280525
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_120: -4272448850187841004
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_121: 3882748204393188516
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_122: -6902142616400334297
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_123: 3086633135272305112
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_124: -9063663597803241675
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_125: 1764515620155744962
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_126: -6445447781501372038
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_127: 6145425085293835541
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_128: 7512039997761850271
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_129: 452830178103826652
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_13: -3634644177288914599
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_14: 6710095448275915508
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_15: -9040392608827927949
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_16: 8774812406555737921
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_17: -7029874443644381331
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_18: 614707861180636251
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_19: 2408652709142337337
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_2: -1218281574300637233
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_20: -5417260908865612509
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_21: -1801709746700114197
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_22: 4759099834429487988
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_23: -3684446621977334255
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_24: -7545253081086540405
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_25: -8439612489406381541
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_26: 464049637352252341
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_27: 6581946058728388811
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_28: 5499661036579345757
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_29: -3256327797127021982
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_3: -1525600488156843591
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_30: 3501097538959817050
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_31: -1043369392240735602
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_32: 3422001313425429182
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_33: -2341861663432971901
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_34: 623223774177552392
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_35: 8405240986252219206
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_36: -8747442025748125723
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_37: 7055465608278386897
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_38: 7975685026268084413
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_39: 6950424407349811966
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_4: -1701459542698186600
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_40: -6990911427815105329
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_41: -3137844460264567712
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_42: 605262383479515481
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_43: -7901845153884088870
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_44: -2517905676701749911
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_45: -5081586253826054166
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_46: -3268919536344190498
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_47: 8579644817615612508
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_48: 4559169752982339408
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_49: 5276016410059115581
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_5: -4514166844245531240
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_50: 7445972168602311814
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_51: -6823624278928146259
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_52: 3783106175456867520
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_53: 3376789457944092752
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_54: -5267832377185971966
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_55: -6347464568933356847
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_56: 2336757302838678112
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_57: -4786875314808419960
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_58: 5286211384207063946
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_59: 1050534971734799735
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_6: -7823641777986600732
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_60: 6139780287673267540
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_61: 3687173269988447059
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_62: 7016019983591543011
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_63: 8323545259484993029
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_64: -4957162506083992913
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_65: -1702790354889439547
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_66: 8140200493838161814
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_67: -5632267183220096424
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_68: -939844890477329541
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_69: -6618727107672817378
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_7: 8325329450495011618
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_70: 6877952354534370529
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_71: 9177464864611524038
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_72: 8809515927299673297
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_73: 4877245144174262521
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_74: 1483424899993638357
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_75: 8074402076398494495
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_76: -488902035463255419
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_77: -7577563002537404837
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_78: 5951839864804836589
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_79: 2003995609308680750
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_8: -5460597874616057734
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_80: 596944973234057115
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_81: -2695181194184088843
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_82: -8748488782897003020
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_83: 5372424870195829674
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_84: 7679417046330586129
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_85: -7574595245167355104
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_86: -3134335391090129828
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_87: 3884855169609341945
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_88: -1882815011018239839
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_89: -5934732400603490852
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_9: 5424614661107088623
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_90: 3173451559685468226
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_91: -1307140835552668370
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_92: -230578703420707386
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_93: -2476495771105931292
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_94: 7923709217335768578
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_95: 3667902795438519225
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_96: -2077276314734143522
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_97: 6123992728281967963
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_98: 6884873853486816092
+      PC _ Computer - The Binding of Isaac_ Rebirth - Playable Characters - ___ (Pre-Repentance)_99: 1296463123223948652
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 21037, guid: 0000000000000000e000000000000000, type: 0}
