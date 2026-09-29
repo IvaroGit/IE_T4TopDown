@@ -698,6 +698,7 @@ MonoBehaviour:
   m_LightVolumeEnabled: 0
   m_ApplyToSortingLayers: 00000000i
   m_LightCookieSprite: {fileID: 0}
+  m_Material: {fileID: 0}
   m_DeprecatedPointLightCookieSprite: {fileID: 0}
   m_LightOrder: 0
   m_AlphaBlendOnOverlap: 0
@@ -711,6 +712,7 @@ MonoBehaviour:
   m_ShadowSoftnessFalloffIntensity: 0.5
   m_ShadowVolumeIntensityEnabled: 0
   m_ShadowVolumeIntensity: 0.75
+  m_ShadowMaterial: {fileID: 0}
   m_RenderingLayersMask:
     serializedVersion: 0
     m_Bits: 1
@@ -742,12 +744,6 @@ MonoBehaviour:
         m_SelectedHashCode: 4
         m_SelectedSource:
           rid: -2
-        m_Provider2DCache:
-          rid: 124035450091077901
-    - rid: 124035450091077901
-      type: {class: 'Provider2DCache`1[[UnityEngine.Rendering.Universal.Light2DProvider, Unity.RenderPipelines.Universal.2D.Runtime]]', ns: UnityEngine.Rendering.Universal, asm: Unity.RenderPipelines.Universal.2D.Runtime}
-      data:
-        m_Cache: []
 --- !u!4 &619394802
 Transform:
   m_ObjectHideFlags: 0
