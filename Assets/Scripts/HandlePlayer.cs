@@ -6,10 +6,14 @@ public class HandlePlayer : MonoBehaviour
     [SerializeField]
     private float speed = 5;
 
-    private static readonly int speedXHash =
+    [SerializeField]
+    private GameObject bomb;
+
+    private static readonly int SpeedXHash =
             Animator.StringToHash("Speed X");
 
-    private static readonly int speedYHash =
+    [SerializeField]
+    private int speedYHash =
             Animator.StringToHash("Speed Y");
 
     private Rigidbody2D    _rb;
@@ -40,12 +44,20 @@ public class HandlePlayer : MonoBehaviour
     {
         _direction = input.Get<Vector2>();
 
-        _bodyAnimator.SetFloat(speedXHash, _direction.x);
+        _bodyAnimator.SetFloat(SpeedXHash, _direction.x);
         _bodyAnimator.SetFloat(speedYHash, _direction.y);
 
-        _headAnimator.SetFloat(speedXHash, _direction.x);
+        _headAnimator.SetFloat(SpeedXHash, _direction.x);
         _headAnimator.SetFloat(speedYHash, _direction.y);
 
         _renderer.flipX = _direction.x < 0;
+    }
+
+    void OnBomb(InputValue v)
+    {
+        Instantiate(
+                bomb,
+                transform.Find("Bomb Position").position,
+                bomb.transform.rotation);
     }
 }
