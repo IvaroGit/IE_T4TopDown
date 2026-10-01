@@ -76,7 +76,7 @@ TextureImporter:
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 7
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -211,50 +211,6 @@ TextureImporter:
       bones: []
       spriteID: 30a4feb005314b243966261882d5db6c
       internalID: -1471122288
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: thechamber_4
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 52
-        width: 182
-        height: 104
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: adf86fee5f4b09148b418bc13054231a
-      internalID: 612754212
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: thechamber_5
-      rect:
-        serializedVersion: 2
-        x: 234
-        y: 52
-        width: 182
-        height: 104
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6a63a40cdccf6c2418156467a2223c63
-      internalID: 712594596
       vertices: []
       indices: 
       edges: []
@@ -461,10 +417,10 @@ TextureImporter:
       name: thechamber 1_9
       rect:
         serializedVersion: 2
-        x: 0
+        x: 52
         y: 0
         width: 182
-        height: 52
+        height: 104
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -475,50 +431,6 @@ TextureImporter:
       bones: []
       spriteID: 47c1b0b90d72c4b41a0ede9cb568c212
       internalID: -548034150
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: thechamber 1_10
-      rect:
-        serializedVersion: 2
-        x: 182
-        y: 52
-        width: 52
-        height: 104
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9fff6865c5cc9e84ba80c1c578daf634
-      internalID: -917131215
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: thechamber 1_11
-      rect:
-        serializedVersion: 2
-        x: 182
-        y: 0
-        width: 52
-        height: 52
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 89f765809b9e97345867810d24cfdc26
-      internalID: -587136470
       vertices: []
       indices: 
       edges: []
@@ -590,57 +502,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: thechamber 1_15
-      rect:
-        serializedVersion: 2
-        x: 416
-        y: 52
-        width: 52
-        height: 104
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 89f2450e9d62275468c7676f25852e18
-      internalID: -929202627
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: thechamber 1_16
-      rect:
-        serializedVersion: 2
-        x: 416
-        y: 0
-        width: 52
-        height: 52
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 90245fb2cb257314bae5bd617408d7d7
-      internalID: 715211073
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: thechamber 1_17
       rect:
         serializedVersion: 2
-        x: 234
+        x: 286
         y: 0
         width: 182
-        height: 52
+        height: 104
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -664,7 +532,7 @@ TextureImporter:
         width: 52
         height: 52
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
