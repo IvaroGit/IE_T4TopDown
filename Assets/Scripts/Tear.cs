@@ -2,10 +2,10 @@ using UnityEngine;
 
 public class Tear : MonoBehaviour
 {
-    [SerializeField] private Vector3 _startPosition;
-
     [SerializeField] private float range = 10f;
-    
+
+    private Vector3 _startPosition;
+
     void Start()
     {
         _startPosition = transform.position;
