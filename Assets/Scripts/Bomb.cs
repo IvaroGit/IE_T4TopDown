@@ -31,12 +31,14 @@ public class Bomb : MonoBehaviour
 
         Color color = _renderer.color;
 
+        var wfs = new WaitForSeconds(flashTime);
+
         for (int i = 0; i < numberOfFlashes; i++)
         {
             _renderer.color = flashColor;
-            yield return new WaitForSeconds(flashTime);
+            yield return wfs;
             _renderer.color = color;
-            yield return new WaitForSeconds(flashTime);
+            yield return wfs;
         }
 
         Instantiate(

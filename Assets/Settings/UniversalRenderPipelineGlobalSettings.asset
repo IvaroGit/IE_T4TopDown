@@ -109,7 +109,7 @@ MonoBehaviour:
         m_Generators:
         - rid: 124035471598157837
         - rid: 124035471598157838
-        m_GeometryVersion: 0
+        m_GeometryVersion: 1
     - rid: 124035471598157825
       type: {class: URPExposureSettings, ns: UnityEngine.Rendering.Universal, asm: Unity.RenderPipelines.Universal.Runtime}
       data:

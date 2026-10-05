@@ -9,17 +9,25 @@ public class HandlePlayer : MonoBehaviour
     [SerializeField]
     private GameObject bomb;
 
+    [SerializeField]
+    private GameObject tear;
+
+    [SerializeField]
+    private float tearSpeed = 5;
+
+    [SerializeField]
+    private Transform tearPosition;
+
     private static readonly int SpeedXHash =
             Animator.StringToHash("Speed X");
 
-    [SerializeField]
-    private int speedYHash =
+    private static readonly int SpeedYHash =
             Animator.StringToHash("Speed Y");
 
     private Rigidbody2D    _rb;
+    private SpriteRenderer _renderer;
     private Animator       _bodyAnimator;
     private Animator       _headAnimator;
-    private SpriteRenderer _renderer;
 
     private Vector2 _direction = Vector2.zero;
 
@@ -31,7 +39,7 @@ public class HandlePlayer : MonoBehaviour
                 .Find("Head")
                 .GetComponent<Animator>();
         _renderer = transform
-                .Find("Body A")
+                .Find("Body")
                 .GetComponent<SpriteRenderer>();
     }
 
@@ -45,10 +53,10 @@ public class HandlePlayer : MonoBehaviour
         _direction = input.Get<Vector2>();
 
         _bodyAnimator.SetFloat(SpeedXHash, _direction.x);
-        _bodyAnimator.SetFloat(speedYHash, _direction.y);
+        _bodyAnimator.SetFloat(SpeedYHash, _direction.y);
 
         _headAnimator.SetFloat(SpeedXHash, _direction.x);
-        _headAnimator.SetFloat(speedYHash, _direction.y);
+        _headAnimator.SetFloat(SpeedYHash, _direction.y);
 
         _renderer.flipX = _direction.x < 0;
     }
@@ -59,5 +67,50 @@ public class HandlePlayer : MonoBehaviour
                 bomb,
                 transform.Find("Bomb Position").position,
                 bomb.transform.rotation);
+    }
+
+    void OnShoot(InputValue v)
+    {
+        Vector2 direction = v.Get<Vector2>();
+
+        if (direction.x > .5f)
+        {
+            Shoot(Vector2.right);
+
+            return;
+        }
+
+        if (direction.x < -.5f)
+        {
+            Shoot(Vector2.left);
+
+            return;
+        }
+
+        if (direction.y > .5f)
+        {
+            Shoot(Vector2.up);
+
+            return;
+        }
+
+        if (direction.y < -.5f)
+        {
+            Shoot(Vector2.down);
+
+            return;
+        }
+    }
+
+    private void Shoot(Vector2 direction)
+    {
+        GameObject newTear = Instantiate(
+                tear,
+                tearPosition.position,
+                tear.transform.rotation
+        );
+
+        newTear.GetComponent<Rigidbody2D>().linearVelocity =
+                direction * tearSpeed;
     }
 }
