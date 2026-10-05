@@ -18,6 +18,15 @@ public class HandlePlayer : MonoBehaviour
     [SerializeField]
     private Transform tearPosition;
 
+    [SerializeField]
+    private int startingHearts = 3;
+
+    [SerializeField]
+    private GameObject heartDisplay;
+
+    [SerializeField]
+    private GameObject heart;
+
     private static readonly int SpeedXHash =
             Animator.StringToHash("Speed X");
 
@@ -31,8 +40,12 @@ public class HandlePlayer : MonoBehaviour
 
     private Vector2 _direction = Vector2.zero;
 
+    private int hearts;
+
     void Start()
     {
+        hearts = startingHearts;
+
         _rb           = GetComponent<Rigidbody2D>();
         _bodyAnimator = GetComponent<Animator>();
         _headAnimator = transform
@@ -41,6 +54,8 @@ public class HandlePlayer : MonoBehaviour
         _renderer = transform
                 .Find("Body")
                 .GetComponent<SpriteRenderer>();
+
+        DisplayHearts();
     }
 
     void Update()
@@ -112,5 +127,21 @@ public class HandlePlayer : MonoBehaviour
 
         newTear.GetComponent<Rigidbody2D>().linearVelocity =
                 direction * tearSpeed;
+    }
+
+    void DisplayHearts()
+    {
+        /*
+        while (heartDisplay.transform.childCount > 0)
+        {
+            Destroy(heartDisplay.transform.GetChild(0).gameObject);
+        }
+*/
+        for (int i = 0; i < hearts; i++)
+        {
+            var newHeart = Instantiate(heart);
+
+            newHeart.transform.SetParent(heartDisplay.transform, false);
+        }
     }
 }
