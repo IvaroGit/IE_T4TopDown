@@ -125,7 +125,7 @@ ehthumbs.db
 
 # Auto Save
 # Scene backups shouldn't be shared
-/[Ss]cene[Bb]ackups/*
+# /[Ss]cene[Bb]ackups/*
 
 # Odin
 # Ignore the auto-generated AOT compatibility dll.
