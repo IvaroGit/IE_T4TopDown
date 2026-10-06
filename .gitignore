@@ -114,7 +114,6 @@ InitTestScene*.unity*
 # MacOS
 *.DS_Store
 
-**/_Recovery/
 .DS_Store
 .DS_Store?
 ._*
@@ -147,4 +146,5 @@ Assets/Plugins/Febucci/Text Animator/Integrations
 .idea/.idea.Soltorg Party/.idea/developer-tools.xml
 .idea/.idea.SoltorgParty_NS/.idea
 .RecycleBin
-Assets/_Recovery.meta
+# **/_Recovery/
+# Assets/_Recovery.meta
