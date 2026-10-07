@@ -321,11 +321,11 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 360837383}
+  - component: {fileID: 360837388}
   - component: {fileID: 360837385}
   - component: {fileID: 360837384}
-  - component: {fileID: 360837387}
   - component: {fileID: 360837386}
-  - component: {fileID: 360837388}
+  - component: {fileID: 360837387}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -474,6 +474,7 @@ MonoBehaviour:
   tearPosition: {fileID: 754847731}
   tearCooldown: 0.5
   startingHearts: 3
+  maxHearts: 10
   heartDisplay: {fileID: 1907927193}
   heart: {fileID: 449420114081171785, guid: f1dd74b85322e4341870a975b8a24174, type: 3}
   halfHeart: {fileID: 449420114081171785, guid: 065528df766f37c4086859cb11db691f, type: 3}
