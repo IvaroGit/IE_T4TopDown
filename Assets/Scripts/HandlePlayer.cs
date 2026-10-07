@@ -1,8 +1,9 @@
 using System.Collections;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using Unity.Scripting.LifecycleManagement;
 
-public class HandlePlayer : MonoBehaviour
+public partial class HandlePlayer : MonoBehaviour
 {
     [SerializeField]
     private float speed = 5;
@@ -26,6 +27,9 @@ public class HandlePlayer : MonoBehaviour
     private int startingHearts = 3;
 
     [SerializeField]
+    private int maxHearts = 10;
+
+    [SerializeField]
     private GameObject heartDisplay;
 
     [SerializeField]
@@ -45,18 +49,31 @@ public class HandlePlayer : MonoBehaviour
     private Animator       _bodyAnimator;
     private Animator       _headAnimator;
 
-    private Vector2 _direction = Vector2.zero;
+    private Vector2 _direction     = Vector2.zero;
     private Vector2 _tearDirection = Vector2.zero;
 
     private WaitForSeconds _tearCooldown;
 
-    private int  hearts;
-    private int  displayedHearts = 0;
-    private bool _canCry         = true;
+    [AutoStaticsCleanup]
+    private static int _hearts;
+
+    [AutoStaticsCleanup]
+    private static int _maxHearts = 10;
+
+    public static int hearts
+    {
+        get => _hearts;
+        set => _hearts =
+                Mathf.Min(Mathf.Max(0, value), _maxHearts);
+    }
+
+    private int  _displayedHearts = 0;
+    private bool _canCry          = true;
 
     void Start()
     {
-        hearts = startingHearts;
+        _hearts = startingHearts;
+        _maxHearts = maxHearts;
 
         _rb           = GetComponent<Rigidbody2D>();
         _bodyAnimator = GetComponent<Animator>();
@@ -72,18 +89,18 @@ public class HandlePlayer : MonoBehaviour
 
     void Update()
     {
-        if (displayedHearts != hearts)
+        if (_displayedHearts != _hearts)
         {
             DisplayHearts();
         }
 
         if (_canCry && _tearDirection != Vector2.zero)
         {
-            _headAnimator.SetFloat(SpeedXHash, _tearDirection.x);
-            _headAnimator.SetFloat(SpeedYHash, _tearDirection.y);
-
             Shoot(_tearDirection);
         }
+
+        _headAnimator.SetFloat(SpeedXHash, _tearDirection.x);
+        _headAnimator.SetFloat(SpeedYHash, _tearDirection.y);
 
         _rb.linearVelocity = _direction * speed;
     }
@@ -163,14 +180,14 @@ public class HandlePlayer : MonoBehaviour
 
     void DisplayHearts(bool addHalfHeart = false)
     {
-        displayedHearts = hearts;
+        _displayedHearts = _hearts;
 
         foreach (Transform child in heartDisplay.transform)
         {
             GameObject.Destroy(child.gameObject);
         }
 
-        for (int i = 0; i < hearts; i++)
+        for (int i = 0; i < _hearts; i++)
         {
             var newHeart = Instantiate(heart);
 
