@@ -72,7 +72,7 @@ public partial class HandlePlayer : MonoBehaviour
 
     void Start()
     {
-        _hearts = startingHearts;
+        _hearts    = startingHearts;
         _maxHearts = maxHearts;
 
         _rb           = GetComponent<Rigidbody2D>();
@@ -94,13 +94,13 @@ public partial class HandlePlayer : MonoBehaviour
             DisplayHearts();
         }
 
+        _headAnimator.SetFloat(SpeedXHash, _tearDirection.x);
+        _headAnimator.SetFloat(SpeedYHash, _tearDirection.y);
+
         if (_canCry && _tearDirection != Vector2.zero)
         {
             Shoot(_tearDirection);
         }
-
-        _headAnimator.SetFloat(SpeedXHash, _tearDirection.x);
-        _headAnimator.SetFloat(SpeedYHash, _tearDirection.y);
 
         _rb.linearVelocity = _direction * speed;
     }
@@ -157,6 +157,15 @@ public partial class HandlePlayer : MonoBehaviour
 
     private void Shoot(Vector2 direction)
     {
+        StartCoroutine(CoolDown());
+    }
+
+    IEnumerator CoolDown()
+    {
+        _canCry = false;
+
+        yield return null;
+
         GameObject newTear = Instantiate(
                 tear,
                 tearPosition.position,
@@ -164,14 +173,7 @@ public partial class HandlePlayer : MonoBehaviour
         );
 
         newTear.GetComponent<Rigidbody2D>().linearVelocity =
-                direction * tearSpeed;
-
-        StartCoroutine(CoolDown());
-    }
-
-    IEnumerator CoolDown()
-    {
-        _canCry = false;
+                _tearDirection * tearSpeed;
 
         yield return _tearCooldown;
 
