@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 
 public class TostonesCojones : MonoBehaviour
@@ -5,6 +6,7 @@ public class TostonesCojones : MonoBehaviour
     private Vector2 _direction;
     private Transform _player;
     private Rigidbody2D _rb;
+    private CircleCollider2D _burnRadius;
 
     [SerializeField] private float speed = 10f;
     private float _targetAngle, _currentAngle, _newAngle;
@@ -15,6 +17,7 @@ public class TostonesCojones : MonoBehaviour
     {
         _player = GameObject.FindGameObjectWithTag("Player").transform;
         _rb = GetComponent<Rigidbody2D>();
+        _burnRadius = GetComponent<CircleCollider2D>();
     }
 
     // Update is called once per frame
