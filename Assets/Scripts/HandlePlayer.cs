@@ -102,7 +102,7 @@ public partial class HandlePlayer : MonoBehaviour
 
         if (_canCry && _tearDirection != Vector2.zero)
         {
-            Shoot(_tearDirection);
+            Shoot();
         }
 
         _rb.linearVelocity = _direction * speed;
@@ -174,7 +174,7 @@ public partial class HandlePlayer : MonoBehaviour
         _tearDirection = finalDirection;
     }
 
-    private void Shoot(Vector2 direction)
+    private void Shoot()
     {
         StartCoroutine(CoolDown());
     }
