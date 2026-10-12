@@ -474,6 +474,7 @@ MonoBehaviour:
   tearPosition: {fileID: 754847731}
   tearCooldown: 0.5
   startingHearts: 3
+  maxaHearts: 10
   maxHearts: 10
   heartDisplay: {fileID: 1907927193}
   heart: {fileID: 449420114081171785, guid: f1dd74b85322e4341870a975b8a24174, type: 3}
