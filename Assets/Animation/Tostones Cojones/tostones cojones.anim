@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Isaac Boss Flight
+  m_Name: tostones cojones
   serializedVersion: 8
   m_Legacy: 0
   m_Compressed: 0
@@ -21,25 +21,23 @@ AnimationClip:
   - serializedVersion: 2
     curve:
     - time: 0
-      value: {fileID: 407225100246564650, guid: 664e8a7c95e65f8488657386835f4806, type: 3}
-    - time: 0.18333334
-      value: {fileID: -4834549541711454058, guid: 664e8a7c95e65f8488657386835f4806, type: 3}
-    - time: 0.35
-      value: {fileID: -2369403620065625402, guid: 664e8a7c95e65f8488657386835f4806, type: 3}
-    - time: 0.53333336
-      value: {fileID: -1320112953228323509, guid: 664e8a7c95e65f8488657386835f4806, type: 3}
-    - time: 0.71666664
-      value: {fileID: 5723181149414997350, guid: 664e8a7c95e65f8488657386835f4806, type: 3}
-    - time: 0.8833333
-      value: {fileID: 8085447241204921451, guid: 664e8a7c95e65f8488657386835f4806, type: 3}
-    - time: 1.0666667
-      value: {fileID: 7500503557718082756, guid: 664e8a7c95e65f8488657386835f4806, type: 3}
+      value: {fileID: 6358146713461861757, guid: e358fb9ed2a3bdf419b4a7bc136c5dd5, type: 3}
+    - time: 0.083333336
+      value: {fileID: -4409465043535438761, guid: e358fb9ed2a3bdf419b4a7bc136c5dd5, type: 3}
+    - time: 0.16666667
+      value: {fileID: 7811483555048331459, guid: e358fb9ed2a3bdf419b4a7bc136c5dd5, type: 3}
+    - time: 0.25
+      value: {fileID: -3439188681255026678, guid: e358fb9ed2a3bdf419b4a7bc136c5dd5, type: 3}
+    - time: 0.33333334
+      value: {fileID: -5233137722828590147, guid: e358fb9ed2a3bdf419b4a7bc136c5dd5, type: 3}
+    - time: 0.41666666
+      value: {fileID: 2144066322129435133, guid: e358fb9ed2a3bdf419b4a7bc136c5dd5, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
     script: {fileID: 0}
     flags: 2
-  m_SampleRate: 60
+  m_SampleRate: 12
   m_WrapMode: 0
   m_Bounds:
     m_Center: {x: 0, y: 0, z: 0}
@@ -57,19 +55,18 @@ AnimationClip:
       isSerializeReferenceCurve: 0
       metaData: 0
     pptrCurveMapping:
-    - {fileID: 407225100246564650, guid: 664e8a7c95e65f8488657386835f4806, type: 3}
-    - {fileID: -4834549541711454058, guid: 664e8a7c95e65f8488657386835f4806, type: 3}
-    - {fileID: -2369403620065625402, guid: 664e8a7c95e65f8488657386835f4806, type: 3}
-    - {fileID: -1320112953228323509, guid: 664e8a7c95e65f8488657386835f4806, type: 3}
-    - {fileID: 5723181149414997350, guid: 664e8a7c95e65f8488657386835f4806, type: 3}
-    - {fileID: 8085447241204921451, guid: 664e8a7c95e65f8488657386835f4806, type: 3}
-    - {fileID: 7500503557718082756, guid: 664e8a7c95e65f8488657386835f4806, type: 3}
+    - {fileID: 6358146713461861757, guid: e358fb9ed2a3bdf419b4a7bc136c5dd5, type: 3}
+    - {fileID: -4409465043535438761, guid: e358fb9ed2a3bdf419b4a7bc136c5dd5, type: 3}
+    - {fileID: 7811483555048331459, guid: e358fb9ed2a3bdf419b4a7bc136c5dd5, type: 3}
+    - {fileID: -3439188681255026678, guid: e358fb9ed2a3bdf419b4a7bc136c5dd5, type: 3}
+    - {fileID: -5233137722828590147, guid: e358fb9ed2a3bdf419b4a7bc136c5dd5, type: 3}
+    - {fileID: 2144066322129435133, guid: e358fb9ed2a3bdf419b4a7bc136c5dd5, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 1.0833334
+    m_StopTime: 0.5
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0

@@ -27,15 +27,6 @@ public class Poobottle : MonoBehaviour
 
         if (direction.magnitude < sightRange)
         {
-            /*
-            Debug.DrawRay(
-                    transform.position,
-                    Quaternion.Euler(0, 0, Vector2.SignedAngle(direction, Vector2.right)) * Vector2.up,
-                    Color.red,
-                    1
-            );
-            */
-
             var hits =
                     Physics2D.CircleCast(
                             transform.position,
