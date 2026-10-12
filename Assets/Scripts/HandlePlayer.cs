@@ -27,6 +27,9 @@ public partial class HandlePlayer : MonoBehaviour
     private int startingHearts = 3;
 
     [SerializeField]
+    private int maxaHearts=10;
+
+    [SerializeField]
     private int maxHearts = 10;
 
     [SerializeField]
@@ -37,6 +40,19 @@ public partial class HandlePlayer : MonoBehaviour
 
     [SerializeField]
     private GameObject halfHeart;
+
+    public static int hearts
+    {
+        get => _hearts;
+        set => _hearts =
+                Mathf.Min(Mathf.Max(0, value), _maxHearts);
+    }
+
+    [AutoStaticsCleanup]
+    private static int _hearts;
+
+    [AutoStaticsCleanup]
+    private static int _maxHearts = 10;
 
     private static readonly int SpeedXHash =
             Animator.StringToHash("Speed X");
@@ -53,19 +69,6 @@ public partial class HandlePlayer : MonoBehaviour
     private Vector2 _tearDirection = Vector2.zero;
 
     private WaitForSeconds _tearCooldown;
-
-    [AutoStaticsCleanup]
-    private static int _hearts;
-
-    [AutoStaticsCleanup]
-    private static int _maxHearts = 10;
-
-    public static int hearts
-    {
-        get => _hearts;
-        set => _hearts =
-                Mathf.Min(Mathf.Max(0, value), _maxHearts);
-    }
 
     private int  _displayedHearts = 0;
     private bool _canCry          = true;
@@ -99,7 +102,7 @@ public partial class HandlePlayer : MonoBehaviour
 
         if (_canCry && _tearDirection != Vector2.zero)
         {
-            Shoot(_tearDirection);
+            Shoot();
         }
 
         _rb.linearVelocity = _direction * speed;
@@ -109,18 +112,34 @@ public partial class HandlePlayer : MonoBehaviour
     {
         _direction = input.Get<Vector2>();
 
+        if (_direction.x < -.5f)
+        {
+            _direction.x = -1;
+            _direction.y = 0;
+        }
+
+        if (_direction.x > .5f)
+        {
+            _direction.x = 1;
+            _direction.y = 0;
+        }
+
+        if (_direction.y < -.5f)
+        {
+            _direction.x = 0;
+            _direction.y = -1;
+        }
+
+        if (_direction.y > .5f)
+        {
+            _direction.x = 0;
+            _direction.y = 1;
+        }
+
         _bodyAnimator.SetFloat(SpeedXHash, _direction.x);
         _bodyAnimator.SetFloat(SpeedYHash, _direction.y);
 
         _renderer.flipX = _direction.x < 0;
-    }
-
-    void OnBomb(InputValue v)
-    {
-        Instantiate(
-                bomb,
-                transform.Find("Bomb Position").position,
-                bomb.transform.rotation);
     }
 
     void OnShoot(InputValue v)
@@ -155,7 +174,7 @@ public partial class HandlePlayer : MonoBehaviour
         _tearDirection = finalDirection;
     }
 
-    private void Shoot(Vector2 direction)
+    private void Shoot()
     {
         StartCoroutine(CoolDown());
     }
@@ -178,6 +197,14 @@ public partial class HandlePlayer : MonoBehaviour
         yield return _tearCooldown;
 
         _canCry = true;
+    }
+
+    void OnBomb(InputValue v)
+    {
+        Instantiate(
+                bomb,
+                transform.Find("Bomb Position").position,
+                bomb.transform.rotation);
     }
 
     void DisplayHearts(bool addHalfHeart = false)

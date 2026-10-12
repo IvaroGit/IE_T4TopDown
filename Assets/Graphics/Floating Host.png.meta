@@ -1,0 +1,484 @@
+fileFormatVersion: 2
+guid: d51dd83004013184a9edfa86fb5ea9e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6132014487786450494
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Monsters - Floast_0
+  - first:
+      213: 2604046211187641934
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Monsters - Floast_1
+  - first:
+      213: 4906893913872072971
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Monsters - Floast_2
+  - first:
+      213: 1852319448567680433
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Monsters - Floast_3
+  - first:
+      213: -5135398814153265376
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Monsters - Floast_4
+  - first:
+      213: -1313147325714174635
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Monsters - Floast_5
+  - first:
+      213: -350693384403907061
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Monsters - Floast_6
+  - first:
+      213: -5029730913375495832
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Monsters - Floast_7
+  - first:
+      213: -1767848855233224482
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Monsters - Floast_8
+  - first:
+      213: -4344951557973678399
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Monsters - Floast_9
+  - first:
+      213: 228016989853162300
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Monsters - Floast_10
+  - first:
+      213: -4150988934091334269
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Monsters - Floast_11
+  - first:
+      213: 5960157454744852281
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Monsters - Floast_12
+  - first:
+      213: 1169186122923762926
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Monsters - Floast_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Floating Host 0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 184
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e6f0610ba491550800000000000000
+      internalID: 6132014487786450494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Host 1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 183
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e8a847b3e632420800000000000000
+      internalID: 2604046211187641934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Host 2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 173
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b010fde440ac81440800000000000000
+      internalID: 4906893913872072971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Host 3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 187
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd8c6679b2c4b910800000000000000
+      internalID: 1852319448567680433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Host 4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 121
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fae6eacf56bb8b0800000000000000
+      internalID: -5135398814153265376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Host 5
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 121
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d6d01f673c6cde0800000000000000
+      internalID: -1313147325714174635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Host 6
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 121
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e86859936122bf0800000000000000
+      internalID: -350693384403907061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Host Old 0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 66
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869d378026ec23ab0800000000000000
+      internalID: -5029730913375495832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Host Old 1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 65
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed02e3725d65777e0800000000000000
+      internalID: -1767848855233224482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Host Old 2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 55
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6e2bc1491a3b3c0800000000000000
+      internalID: -4344951557973678399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Host Old 3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 69
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b93f28e341a2300800000000000000
+      internalID: 228016989853162300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Host Old 4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d98ecae89b466c0800000000000000
+      internalID: -4150988934091334269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Host Old 5
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 3
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937967770abb6b250800000000000000
+      internalID: 5960157454744852281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating Host Old 6
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 3
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4ef2d8598c93010800000000000000
+      internalID: 1169186122923762926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 85254d75dd45f654f82d6bd083cf821e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Floating Host 0: 6132014487786450494
+      Floating Host 1: 2604046211187641934
+      Floating Host 2: 4906893913872072971
+      Floating Host 3: 1852319448567680433
+      Floating Host 4: -5135398814153265376
+      Floating Host 5: -1313147325714174635
+      Floating Host 6: -350693384403907061
+      Floating Host Old 0: -5029730913375495832
+      Floating Host Old 1: -1767848855233224482
+      Floating Host Old 2: -4344951557973678399
+      Floating Host Old 3: 228016989853162300
+      Floating Host Old 4: -4150988934091334269
+      Floating Host Old 5: 5960157454744852281
+      Floating Host Old 6: 1169186122923762926
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 21037, guid: 0000000000000000e000000000000000, type: 0}
