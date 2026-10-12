@@ -1,73 +1,79 @@
 fileFormatVersion: 2
-guid: 65cbf4111519d4648add8f46fda618f5
+guid: 4687cfd30bc1fed4198360b71ea5f3cf
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4024384739387732339
-    second: boss_075_isaac_0
+      213: -1986458326089191369
+    second: door_12_cellardoor_0
   - first:
-      213: -3419869191216259332
-    second: boss_075_isaac_1
+      213: -8500515876761745785
+    second: door_12_cellardoor_1
   - first:
-      213: -5631517673734310311
-    second: boss_075_isaac_2
+      213: -7005652339095299546
+    second: door_12_cellardoor_2
   - first:
-      213: -2265983348210240511
-    second: boss_075_isaac_3
+      213: 3644548065968918649
+    second: door_12_cellardoor_3
   - first:
-      213: 1712494389162669448
-    second: boss_075_isaac_4
+      213: -281503901296850382
+    second: door_12_cellardoor_4
   - first:
-      213: -5584286561660291443
-    second: boss_075_isaac_5
+      213: -4924406146702590253
+    second: door_12_cellardoor_5
   - first:
-      213: -4672244118928248028
-    second: boss_075_isaac_6
+      213: -3740241392918560498
+    second: door_12_cellardoor_6
   - first:
-      213: 8026122106535971565
-    second: boss_075_isaac_7
+      213: 7408050720288519197
+    second: door_12_cellardoor_7
   - first:
-      213: 4179139869453085151
-    second: boss_075_isaac_8
+      213: -7056160769669847863
+    second: door_12_cellardoor_8
   - first:
-      213: -1046347664492609633
-    second: boss_075_isaac_9
+      213: -7412038816645582365
+    second: door_12_cellardoor_9
   - first:
-      213: 1889203833577701630
-    second: boss_075_isaac_10
+      213: -8129990763877258114
+    second: door_12_cellardoor_10
   - first:
-      213: 2634981741819347859
-    second: boss_075_isaac_11
+      213: 8048884029240660978
+    second: door_12_cellardoor_11
   - first:
-      213: 6175215557830453524
-    second: boss_075_isaac_12
+      213: -759446354952124174
+    second: door_12_cellardoor_12
   - first:
-      213: 7579605710892556586
-    second: boss_075_isaac_13
+      213: -6378228762188733431
+    second: door_12_cellardoor_13
   - first:
-      213: 407225100246564650
-    second: boss_075_isaac_14
+      213: -6092387100090369726
+    second: door_12_cellardoor_14
   - first:
-      213: -4834549541711454058
-    second: boss_075_isaac_15
+      213: 8034620002765345519
+    second: door_12_cellardoor_15
   - first:
-      213: -2369403620065625402
-    second: boss_075_isaac_16
+      213: -3074562057679909492
+    second: door_12_cellardoor_16
   - first:
-      213: -1320112953228323509
-    second: boss_075_isaac_17
+      213: 8872178082886277103
+    second: door_12_cellardoor_17
   - first:
-      213: 5723181149414997350
-    second: boss_075_isaac_18
+      213: 169166995037180143
+    second: door_12_cellardoor_18
   - first:
-      213: 8085447241204921451
-    second: boss_075_isaac_19
+      213: 5006746346398118563
+    second: door_12_cellardoor_19
   - first:
-      213: 7500503557718082756
-    second: boss_075_isaac_20
+      213: 9058457951771335190
+    second: door_12_cellardoor_20
   - first:
-      213: 7355056044867116757
-    second: boss_075_isaac_21
+      213: 4840227558696960254
+    second: door_12_cellardoor_21
+  - first:
+      213: 7916113741338609815
+    second: door_12_cellardoor_22
+  - first:
+      213: 1377490771399733730
+    second: door_12_cellardoor_23
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -114,7 +120,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -165,485 +171,529 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: boss_075_isaac_0
+      name: door_12_cellardoor_0
       rect:
         serializedVersion: 2
-        x: 17
-        y: 304
-        width: 30
-        height: 34
-      alignment: 9
-      pivot: {x: 0.5, y: 0.15}
+        x: 7
+        y: 197
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d8e8a41d6638628c0800000000000000
-      internalID: -4024384739387732339
+      spriteID: 73036585daeae64e0800000000000000
+      internalID: -1986458326089191369
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: boss_075_isaac_1
+      name: door_12_cellardoor_1
       rect:
         serializedVersion: 2
         x: 83
-        y: 304
-        width: 25
-        height: 41
-      alignment: 9
-      pivot: {x: 0.5, y: 0.15}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cfe904ff61f2a80d0800000000000000
-      internalID: -3419869191216259332
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: boss_075_isaac_2
-      rect:
-        serializedVersion: 2
-        x: 142
-        y: 304
-        width: 35
-        height: 29
-      alignment: 9
-      pivot: {x: 0.5, y: 0.18}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9567bb64384d8d1b0800000000000000
-      internalID: -5631517673734310311
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: boss_075_isaac_3
-      rect:
-        serializedVersion: 2
-        x: 209
-        y: 304
-        width: 29
-        height: 37
-      alignment: 9
-      pivot: {x: 0.5, y: 0.12}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1047af6862c9d80e0800000000000000
-      internalID: -2265983348210240511
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: boss_075_isaac_4
-      rect:
-        serializedVersion: 2
-        x: 14
-        y: 239
-        width: 35
-        height: 28
-      alignment: 9
-      pivot: {x: 0.5, y: 0.12}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 885f3e1e29004c710800000000000000
-      internalID: 1712494389162669448
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: boss_075_isaac_5
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 239
-        width: 30
-        height: 33
-      alignment: 9
-      pivot: {x: 0.5, y: 0.12}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d86304085f0a082b0800000000000000
-      internalID: -5584286561660291443
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: boss_075_isaac_6
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 242
-        width: 35
-        height: 30
+        y: 200
+        width: 27
+        height: 25
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 423bf5b7abad82fb0800000000000000
-      internalID: -4672244118928248028
+      spriteID: 7864c0609d9180a80800000000000000
+      internalID: -8500515876761745785
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: boss_075_isaac_7
+      name: door_12_cellardoor_2
       rect:
         serializedVersion: 2
-        x: 206
-        y: 242
-        width: 38
-        height: 28
+        x: 18
+        y: 152
+        width: 16
+        height: 25
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: dea8cfb1883826f60800000000000000
-      internalID: 8026122106535971565
+      spriteID: 62a175ca05ce6ce90800000000000000
+      internalID: -7005652339095299546
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: boss_075_isaac_8
+      name: door_12_cellardoor_3
       rect:
         serializedVersion: 2
-        x: 15
-        y: 175
-        width: 34
-        height: 34
+        x: 95
+        y: 152
+        width: 16
+        height: 25
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fd96c69b1994ff930800000000000000
-      internalID: 4179139869453085151
+      spriteID: 9701ae60829049230800000000000000
+      internalID: 3644548065968918649
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: boss_075_isaac_9
+      name: door_12_cellardoor_4
       rect:
         serializedVersion: 2
-        x: 140
-        y: 178
-        width: 42
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f9fbb5ac750aa71f0800000000000000
-      internalID: -1046347664492609633
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: boss_075_isaac_10
-      rect:
-        serializedVersion: 2
-        x: 209
-        y: 179
-        width: 30
-        height: 37
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ef084b090ecc73a10800000000000000
-      internalID: 1889203833577701630
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: boss_075_isaac_11
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 125
-        width: 76
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 39348c6fee5519420800000000000000
-      internalID: 2634981741819347859
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: boss_075_isaac_12
-      rect:
-        serializedVersion: 2
-        x: 83
-        y: 123
-        width: 74
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 41923f705d5c2b550800000000000000
-      internalID: 6175215557830453524
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: boss_075_isaac_13
-      rect:
-        serializedVersion: 2
-        x: 173
-        y: 116
-        width: 54
-        height: 43
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a21e54f4c3b203960800000000000000
-      internalID: 7579605710892556586
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: boss_075_isaac_14
-      rect:
-        serializedVersion: 2
-        x: 12
-        y: 64
-        width: 40
+        x: 7
+        y: 95
+        width: 51
         height: 42
-      alignment: 9
-      pivot: {x: 0.48558515, y: 0.2849339}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a2fb1d33211c6a500800000000000000
-      internalID: 407225100246564650
+      spriteID: 23a805871b5e71cf0800000000000000
+      internalID: -281503901296850382
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: boss_075_isaac_15
+      name: door_12_cellardoor_5
       rect:
         serializedVersion: 2
-        x: 77
-        y: 67
-        width: 38
-        height: 39
-      alignment: 9
-      pivot: {x: 0.49494252, y: 0.2338961}
+        x: 90
+        y: 104
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 690e24d6eca38ecb0800000000000000
-      internalID: -4834549541711454058
+      spriteID: 3deba0043bef8abb0800000000000000
+      internalID: -4924406146702590253
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: boss_075_isaac_16
+      name: door_12_cellardoor_6
       rect:
         serializedVersion: 2
-        x: 139
-        y: 72
-        width: 42
-        height: 34
-      alignment: 9
-      pivot: {x: 0.5, y: 0.16650054}
+        x: 156
+        y: 104
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6cab67016ff2e1fd0800000000000000
-      internalID: -2369403620065625402
+      spriteID: e0180e0154ef71cc0800000000000000
+      internalID: -3740241392918560498
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: boss_075_isaac_17
+      name: door_12_cellardoor_7
       rect:
         serializedVersion: 2
-        x: 200
-        y: 72
-        width: 48
-        height: 34
-      alignment: 9
-      pivot: {x: 0.5040035, y: 0.12693293}
+        x: 7
+        y: 79
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b451f6763440eade0800000000000000
-      internalID: -1320112953228323509
+      spriteID: d14bfdc61eeaec660800000000000000
+      internalID: 7408050720288519197
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: boss_075_isaac_18
+      name: door_12_cellardoor_8
       rect:
         serializedVersion: 2
-        x: 10
-        y: 8
-        width: 44
-        height: 34
-      alignment: 9
-      pivot: {x: 0.5121927, y: 0.12623155}
+        x: 11
+        y: 63
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 66db714cee2dc6f40800000000000000
-      internalID: 5723181149414997350
+      spriteID: 9c428c54a2b731e90800000000000000
+      internalID: -7056160769669847863
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: boss_075_isaac_19
+      name: door_12_cellardoor_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 79
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1fe6887f5232990800000000000000
+      internalID: -7412038816645582365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: door_12_cellardoor_10
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 68
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ca3eb89787c2f80800000000000000
+      internalID: -8129990763877258114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: door_12_cellardoor_11
       rect:
         serializedVersion: 2
         x: 73
-        y: 8
-        width: 46
-        height: 34
-      alignment: 9
-      pivot: {x: 0.50583136, y: 0.11045262}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b647e266d67453070800000000000000
-      internalID: 8085447241204921451
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: boss_075_isaac_20
-      rect:
-        serializedVersion: 2
-        x: 139
-        y: 8
-        width: 42
-        height: 34
-      alignment: 9
-      pivot: {x: 0.5063865, y: 0.12919493}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4c407521f34271860800000000000000
-      internalID: 7500503557718082756
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: boss_075_isaac_21
-      rect:
-        serializedVersion: 2
-        x: 200
-        y: 8
-        width: 48
-        height: 33
+        y: 79
+        width: 13
+        height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5ded4690188621660800000000000000
-      internalID: 7355056044867116757
+      spriteID: 2f35439316163bf60800000000000000
+      internalID: 8048884029240660978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: door_12_cellardoor_12
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 72
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f80d1b5097e575f0800000000000000
+      internalID: -759446354952124174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: door_12_cellardoor_13
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 79
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904af8debbafb77a0800000000000000
+      internalID: -6378228762188733431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: door_12_cellardoor_14
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 50
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249f0f8163e737ba0800000000000000
+      internalID: -6092387100090369726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: door_12_cellardoor_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 31
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe29312c254b08f60800000000000000
+      internalID: 8034620002765345519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: door_12_cellardoor_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 15
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d48182916f455d0800000000000000
+      internalID: -3074562057679909492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: door_12_cellardoor_17
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 31
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe75176a5fe402b70800000000000000
+      internalID: 8872178082886277103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: door_12_cellardoor_18
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 20
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe059e65c70095200800000000000000
+      internalID: 169166995037180143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: door_12_cellardoor_19
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 31
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a27b8176498b7540800000000000000
+      internalID: 5006746346398118563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: door_12_cellardoor_20
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 24
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a942c638b16bd70800000000000000
+      internalID: 9058457951771335190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: door_12_cellardoor_21
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 31
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0403ce151fb2340800000000000000
+      internalID: 4840227558696960254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: door_12_cellardoor_22
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 31
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7988312a18fabdd60800000000000000
+      internalID: 7916113741338609815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: door_12_cellardoor_23
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1f8aeee84dd1310800000000000000
+      internalID: 1377490771399733730
       vertices: []
       indices: 
       edges: []
@@ -652,7 +702,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 773d9dbfb5b9f41408e50c350f8ec320
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -662,28 +712,30 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      boss_075_isaac_0: -4024384739387732339
-      boss_075_isaac_1: -3419869191216259332
-      boss_075_isaac_10: 1889203833577701630
-      boss_075_isaac_11: 2634981741819347859
-      boss_075_isaac_12: 6175215557830453524
-      boss_075_isaac_13: 7579605710892556586
-      boss_075_isaac_14: 407225100246564650
-      boss_075_isaac_15: -4834549541711454058
-      boss_075_isaac_16: -2369403620065625402
-      boss_075_isaac_17: -1320112953228323509
-      boss_075_isaac_18: 5723181149414997350
-      boss_075_isaac_19: 8085447241204921451
-      boss_075_isaac_2: -5631517673734310311
-      boss_075_isaac_20: 7500503557718082756
-      boss_075_isaac_21: 7355056044867116757
-      boss_075_isaac_3: -2265983348210240511
-      boss_075_isaac_4: 1712494389162669448
-      boss_075_isaac_5: -5584286561660291443
-      boss_075_isaac_6: -4672244118928248028
-      boss_075_isaac_7: 8026122106535971565
-      boss_075_isaac_8: 4179139869453085151
-      boss_075_isaac_9: -1046347664492609633
+      door_12_cellardoor_0: -1986458326089191369
+      door_12_cellardoor_1: -8500515876761745785
+      door_12_cellardoor_10: -8129990763877258114
+      door_12_cellardoor_11: 8048884029240660978
+      door_12_cellardoor_12: -759446354952124174
+      door_12_cellardoor_13: -6378228762188733431
+      door_12_cellardoor_14: -6092387100090369726
+      door_12_cellardoor_15: 8034620002765345519
+      door_12_cellardoor_16: -3074562057679909492
+      door_12_cellardoor_17: 8872178082886277103
+      door_12_cellardoor_18: 169166995037180143
+      door_12_cellardoor_19: 5006746346398118563
+      door_12_cellardoor_2: -7005652339095299546
+      door_12_cellardoor_20: 9058457951771335190
+      door_12_cellardoor_21: 4840227558696960254
+      door_12_cellardoor_22: 7916113741338609815
+      door_12_cellardoor_23: 1377490771399733730
+      door_12_cellardoor_3: 3644548065968918649
+      door_12_cellardoor_4: -281503901296850382
+      door_12_cellardoor_5: -4924406146702590253
+      door_12_cellardoor_6: -3740241392918560498
+      door_12_cellardoor_7: 7408050720288519197
+      door_12_cellardoor_8: -7056160769669847863
+      door_12_cellardoor_9: -7412038816645582365
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
