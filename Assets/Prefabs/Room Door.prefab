@@ -243,11 +243,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 6252584669528702486}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1e565fc3cab3b4849b4bdf61ef7382dd, type: 3}
+  m_Script: {fileID: 11500000, guid: 918c8a58a06b158408d4b82ddbf0755a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::AH_HandleDoor
   nextRoom: {fileID: 0}
-  roomHeight: 8
+  roomHeight: 0
 --- !u!1 &8938064478325955921
 GameObject:
   m_ObjectHideFlags: 0

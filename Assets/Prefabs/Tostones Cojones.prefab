@@ -146,7 +146,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 2.0901291, y: -0.85706794, z: 0}
-  m_LocalScale: {x: 2, y: 2, z: 2}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 1807890261010243984}
@@ -243,10 +243,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 3596678286939200657}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f7de0348973c81d4b8cae4b53a3e4fbd, type: 3}
+  m_Script: {fileID: 11500000, guid: a666678663cbcf844a1a15520c820fe9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TostonesCojones
-  speed: 1
+  speed: 10
 --- !u!50 &5045174024350124730
 Rigidbody2D:
   serializedVersion: 5
