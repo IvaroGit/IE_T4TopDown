@@ -112,30 +112,6 @@ public partial class HandlePlayer : MonoBehaviour
     {
         _direction = input.Get<Vector2>();
 
-        if (_direction.x < -.5f)
-        {
-            _direction.x = -1;
-            _direction.y = 0;
-        }
-
-        if (_direction.x > .5f)
-        {
-            _direction.x = 1;
-            _direction.y = 0;
-        }
-
-        if (_direction.y < -.5f)
-        {
-            _direction.x = 0;
-            _direction.y = -1;
-        }
-
-        if (_direction.y > .5f)
-        {
-            _direction.x = 0;
-            _direction.y = 1;
-        }
-
         _bodyAnimator.SetFloat(SpeedXHash, _direction.x);
         _bodyAnimator.SetFloat(SpeedYHash, _direction.y);
 
