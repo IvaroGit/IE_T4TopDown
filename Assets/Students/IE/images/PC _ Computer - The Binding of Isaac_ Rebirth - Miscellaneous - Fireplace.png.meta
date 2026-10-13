@@ -1,0 +1,1680 @@
+fileFormatVersion: 2
+guid: 7e3dd877b2d08a444a691848a25b0623
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5908192013313423374
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_0
+  - first:
+      213: -4084715564605762393
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_1
+  - first:
+      213: -1920767539660426921
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_2
+  - first:
+      213: -7068160936355838298
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_3
+  - first:
+      213: -8210708273113553934
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_4
+  - first:
+      213: -3220536647176145954
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_5
+  - first:
+      213: -2438164980934464753
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_6
+  - first:
+      213: -6909225809778426570
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_7
+  - first:
+      213: -5920028921226801668
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_8
+  - first:
+      213: 2887755465803721093
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_9
+  - first:
+      213: 6970512095352943642
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_10
+  - first:
+      213: 1075041259624601247
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_11
+  - first:
+      213: -3990060723549279257
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_12
+  - first:
+      213: -7862095662788342760
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_13
+  - first:
+      213: -8338396710829778278
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_14
+  - first:
+      213: -2734143745211175060
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_15
+  - first:
+      213: 6084032194436970279
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_16
+  - first:
+      213: 4630086863737318799
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_17
+  - first:
+      213: 421219221205370619
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_18
+  - first:
+      213: 6815866789791251637
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_19
+  - first:
+      213: 7548272730093021184
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_20
+  - first:
+      213: -837346598244675466
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_21
+  - first:
+      213: -6755576230153749445
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_22
+  - first:
+      213: 1151177855743022499
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_23
+  - first:
+      213: 2127235304107831996
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_24
+  - first:
+      213: -2313592273249467092
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_25
+  - first:
+      213: 5793431302298905326
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_26
+  - first:
+      213: -5129936342673825232
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_27
+  - first:
+      213: -4319516217703309140
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_28
+  - first:
+      213: 8986909090022367623
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_29
+  - first:
+      213: 5993818057683212966
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_30
+  - first:
+      213: -8378817890401525741
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_31
+  - first:
+      213: -1861645285884407010
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_32
+  - first:
+      213: -2021080831724640615
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_33
+  - first:
+      213: -4619148018770844468
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_34
+  - first:
+      213: -3021282842402553118
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_35
+  - first:
+      213: 3365724311590995043
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_36
+  - first:
+      213: 5794168215576327558
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_37
+  - first:
+      213: -7894145906076873409
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_38
+  - first:
+      213: 4369652126617766754
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_39
+  - first:
+      213: -2107990723812887099
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_40
+  - first:
+      213: 7484425333209402047
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_41
+  - first:
+      213: -7585494552201582964
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_42
+  - first:
+      213: -3506861816983233306
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_43
+  - first:
+      213: -6022732691998969940
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_44
+  - first:
+      213: 7772069598770260261
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_45
+  - first:
+      213: -2136138703930279456
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_46
+  - first:
+      213: 4276132432449793549
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_47
+  - first:
+      213: -6832021939259625157
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_48
+  - first:
+      213: -5498866963285121805
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_49
+  - first:
+      213: 2363776072878623851
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_50
+  - first:
+      213: 4058130600276087040
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_51
+  - first:
+      213: -6946436347530923111
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_52
+  - first:
+      213: 6873843178554630487
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_53
+  - first:
+      213: -7271375922498556707
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_54
+  - first:
+      213: -1847481161095713097
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_55
+  - first:
+      213: 7396008695297144245
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_56
+  - first:
+      213: 4469746102211069578
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_57
+  - first:
+      213: 9035834355533983931
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_58
+  - first:
+      213: -7179740500264154963
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 230
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f747a5baa2e10ea0800000000000000
+      internalID: -5908192013313423374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 230
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a41a23f5dc2057c0800000000000000
+      internalID: -4084715564605762393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 230
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751707e69101855e0800000000000000
+      internalID: -1920767539660426921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 230
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6c73db319d8ed90800000000000000
+      internalID: -7068160936355838298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 230
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3a4bae354bd0e80800000000000000
+      internalID: -8210708273113553934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 230
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed330f68bfa5e43d0800000000000000
+      internalID: -3220536647176145954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 230
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0baa972ed5e92ed0800000000000000
+      internalID: -2438164980934464753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 230
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d323f8bbf7d10a0800000000000000
+      internalID: -6909225809778426570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_8
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 230
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfdcc32df05d7dda0800000000000000
+      internalID: -5920028921226801668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 230
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5896c61db4e531820800000000000000
+      internalID: 2887755465803721093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_10
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 230
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a147312c1db3cb060800000000000000
+      internalID: 6970512095352943642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_11
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 230
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9610de64505bee00800000000000000
+      internalID: 1075041259624601247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 198
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb6b9489e470a8c0800000000000000
+      internalID: -3990060723549279257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_13
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 198
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c8c5d56a934e290800000000000000
+      internalID: -7862095662788342760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_14
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 198
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a94b6ce50184c80800000000000000
+      internalID: -8338396710829778278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_15
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 198
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6fe4d5ffbe5e0ad0800000000000000
+      internalID: -2734143745211175060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_16
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 198
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727b477db03de6450800000000000000
+      internalID: 6084032194436970279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_17
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 198
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8de348a87f514040800000000000000
+      internalID: 4630086863737318799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_18
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 198
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6438466a878d500800000000000000
+      internalID: 421219221205370619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_19
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 198
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bcb3e9bbb2d69e50800000000000000
+      internalID: 6815866789791251637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_20
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 198
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00866f83e0ad0c860800000000000000
+      internalID: 7548272730093021184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_21
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 198
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6709eb194b52164f0800000000000000
+      internalID: -837346598244675466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_22
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 198
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3cfc94163f5f32a0800000000000000
+      internalID: -6755576230153749445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_23
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 198
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5dbdc192ec9ff00800000000000000
+      internalID: 1151177855743022499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 166
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2740f0d35758d10800000000000000
+      internalID: 2127235304107831996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_25
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 166
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2580edd51874efd0800000000000000
+      internalID: -2313592273249467092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_26
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 166
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeaa7241317666050800000000000000
+      internalID: 5793431302298905326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_27
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 166
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0326f8e631ecec8b0800000000000000
+      internalID: -5129936342673825232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_28
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 166
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca06142c2eefd04c0800000000000000
+      internalID: -4319516217703309140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_29
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 166
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7812383e33ae7bc70800000000000000
+      internalID: 8986909090022367623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 135
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa978054c15e2350800000000000000
+      internalID: 5993818057683212966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_31
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 134
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310ede4858578bb80800000000000000
+      internalID: -8378817890401525741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_32
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 135
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e135415d97b1a26e0800000000000000
+      internalID: -1861645285884407010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_33
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 134
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996a3b211bda3f3e0800000000000000
+      internalID: -2021080831724640615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_34
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 135
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4e638a95d75efb0800000000000000
+      internalID: -4619148018770844468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_35
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 134
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e20d94234f3216d0800000000000000
+      internalID: -3021282842402553118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 102
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3640744dd6475be20800000000000000
+      internalID: 3365724311590995043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_37
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 102
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68539421b45096050800000000000000
+      internalID: 5794168215576327558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_38
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 102
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d0f279f1c527290800000000000000
+      internalID: -7894145906076873409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_39
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 102
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b051f257f14ac30800000000000000
+      internalID: 4369652126617766754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_40
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 102
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c57055fa99eeb2e0800000000000000
+      internalID: -2107990723812887099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_41
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 102
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba81e5bf250ed760800000000000000
+      internalID: 7484425333209402047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_42
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 102
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c862d5af4e8eab690800000000000000
+      internalID: -7585494552201582964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_43
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 102
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec5552f1cf155fc0800000000000000
+      internalID: -3506861816983233306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_44
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 70
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafe444c684fa6ca0800000000000000
+      internalID: -6022732691998969940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_45
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 70
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52960543f10fbdb60800000000000000
+      internalID: 7772069598770260261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_46
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 70
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9b541aa29ea52e0800000000000000
+      internalID: -2136138703930279456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_47
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 70
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e62b89acfd75b30800000000000000
+      internalID: 4276132432449793549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_48
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 70
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3131cc6e38cf21a0800000000000000
+      internalID: -6832021939259625157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_49
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 70
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4624291a910b3b0800000000000000
+      internalID: -5498866963285121805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_50
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 70
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c8f7080d1ddc020800000000000000
+      internalID: 2363776072878623851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_51
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 70
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0015991b740615830800000000000000
+      internalID: 4058130600276087040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_52
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 38
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993be8a12fc499f90800000000000000
+      internalID: -6946436347530923111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_53
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 38
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751ad73a3fbc46f50800000000000000
+      internalID: 6873843178554630487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_54
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 38
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc2527bf12e61b90800000000000000
+      internalID: -7271375922498556707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_55
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 38
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bee9af1cad6c56e0800000000000000
+      internalID: -1847481161095713097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_56
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 7
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5f2eef8b6e3a660800000000000000
+      internalID: 7396008695297144245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_57
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 6
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a864a72f56ab70e30800000000000000
+      internalID: 4469746102211069578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_58
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 7
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0bfd2f87bb56d70800000000000000
+      internalID: 9035834355533983931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_59
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 6
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8054e0e007c5c90800000000000000
+      internalID: -7179740500264154963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_0: -5908192013313423374
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_1: -4084715564605762393
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_10: 6970512095352943642
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_11: 1075041259624601247
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_12: -3990060723549279257
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_13: -7862095662788342760
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_14: -8338396710829778278
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_15: -2734143745211175060
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_16: 6084032194436970279
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_17: 4630086863737318799
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_18: 421219221205370619
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_19: 6815866789791251637
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_2: -1920767539660426921
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_20: 7548272730093021184
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_21: -837346598244675466
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_22: -6755576230153749445
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_23: 1151177855743022499
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_24: 2127235304107831996
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_25: -2313592273249467092
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_26: 5793431302298905326
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_27: -5129936342673825232
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_28: -4319516217703309140
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_29: 8986909090022367623
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_3: -7068160936355838298
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_30: 5993818057683212966
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_31: -8378817890401525741
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_32: -1861645285884407010
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_33: -2021080831724640615
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_34: -4619148018770844468
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_35: -3021282842402553118
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_36: 3365724311590995043
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_37: 5794168215576327558
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_38: -7894145906076873409
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_39: 4369652126617766754
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_4: -8210708273113553934
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_40: -2107990723812887099
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_41: 7484425333209402047
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_42: -7585494552201582964
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_43: -3506861816983233306
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_44: -6022732691998969940
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_45: 7772069598770260261
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_46: -2136138703930279456
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_47: 4276132432449793549
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_48: -6832021939259625157
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_49: -5498866963285121805
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_5: -3220536647176145954
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_50: 2363776072878623851
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_51: 4058130600276087040
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_52: -6946436347530923111
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_53: 6873843178554630487
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_54: -7271375922498556707
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_55: -1847481161095713097
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_56: 7396008695297144245
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_57: 4469746102211069578
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_58: 9035834355533983931
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_59: -7179740500264154963
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_6: -2438164980934464753
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_7: -6909225809778426570
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_8: -5920028921226801668
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - Fireplace_9: 2887755465803721093
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 21037, guid: 0000000000000000e000000000000000, type: 0}
