@@ -27,9 +27,6 @@ public partial class HandlePlayer : MonoBehaviour
     private int startingHearts = 3;
 
     [SerializeField]
-    private int maxaHearts=10;
-
-    [SerializeField]
     private int maxHearts = 10;
 
     [SerializeField]
@@ -111,30 +108,6 @@ public partial class HandlePlayer : MonoBehaviour
     void OnMove(InputValue input)
     {
         _direction = input.Get<Vector2>();
-
-        if (_direction.x < -.5f)
-        {
-            _direction.x = -1;
-            _direction.y = 0;
-        }
-
-        if (_direction.x > .5f)
-        {
-            _direction.x = 1;
-            _direction.y = 0;
-        }
-
-        if (_direction.y < -.5f)
-        {
-            _direction.x = 0;
-            _direction.y = -1;
-        }
-
-        if (_direction.y > .5f)
-        {
-            _direction.x = 0;
-            _direction.y = 1;
-        }
 
         _bodyAnimator.SetFloat(SpeedXHash, _direction.x);
         _bodyAnimator.SetFloat(SpeedYHash, _direction.y);
