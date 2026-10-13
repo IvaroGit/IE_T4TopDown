@@ -27,9 +27,6 @@ public partial class HandlePlayer : MonoBehaviour
     private int startingHearts = 3;
 
     [SerializeField]
-    private int maxaHearts=10;
-
-    [SerializeField]
     private int maxHearts = 10;
 
     [SerializeField]
