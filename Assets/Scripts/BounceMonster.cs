@@ -1,15 +1,13 @@
-using UnityEngine;
-
 public class BounceMonster : MonoBehaviour
 {
     [SerializeField]
     private float force = 200;
 
     [SerializeField]
-    private float newForceMax = 5;
+    private float newForceMin = 2;
 
     [SerializeField]
-    private float newForceMin = 2;
+    private float newForceMax = 5;
 
     private Rigidbody2D _rb;
 

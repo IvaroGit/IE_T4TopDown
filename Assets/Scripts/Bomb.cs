@@ -1,4 +1,6 @@
-public class Bomb : MonoBehaviour
+using Unity.Scripting.LifecycleManagement;
+
+public partial class Bomb : MonoBehaviour
 {
     [SerializeField]
     private GameObject explosion;
@@ -18,24 +20,39 @@ public class Bomb : MonoBehaviour
     [SerializeField]
     private Color flashColor = Color.red;
 
-    SpriteRenderer _renderer;
+    [AutoStaticsCleanup]
+    private static WaitForSeconds _explosionDelay;
+
+    [AutoStaticsCleanup]
+    private static WaitForSeconds _flashTime;
+
+    private void Awake()
+    {
+        if (_explosionDelay == null)
+        {
+            _explosionDelay = new WaitForSeconds(explosionDelay);
+        }
+
+        if (_flashTime == null)
+        {
+            _flashTime = new WaitForSeconds(flashTime);
+        }
+    }
 
     IEnumerator Start()
     {
-        _renderer = GetComponent<SpriteRenderer>();
+        var renderer = GetComponent<SpriteRenderer>();
 
-        yield return new WaitForSeconds(explosionDelay);
+        Color color = renderer.color;
 
-        Color color = _renderer.color;
-
-        var wfs = new WaitForSeconds(flashTime);
+        yield return _explosionDelay;
 
         for (int i = 0; i < numberOfFlashes; i++)
         {
-            _renderer.color = flashColor;
-            yield return wfs;
-            _renderer.color = color;
-            yield return wfs;
+            renderer.color = flashColor;
+            yield return _flashTime;
+            renderer.color = color;
+            yield return _flashTime;
         }
 
         Instantiate(

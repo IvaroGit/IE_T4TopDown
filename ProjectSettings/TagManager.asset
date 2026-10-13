@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Obstacle
   - Wall
+  - flame
+  - Tear
   layers:
   - Default
   - TransparentFX
