@@ -132,19 +132,16 @@ public partial class HandlePlayer : MonoBehaviour
     void OnShoot(InputValue v)
     {
         Vector2 direction = v.Get<Vector2>();
-        Vector2 finalDirection = Vector2.zero;
 
-        (finalDirection.x, finalDirection.y) =
+        _tearDirection =
                 (direction.x, direction.y) switch
                 {
-                        (< -.5f, _) => (-1, 0),
-                        (> .5f, _) => (1, 0),
-                        (_, < -.5f) => (0, -1),
-                        (_, > .5f) => (0, 1),
-                        _ => (0, 0)
+                        (< -.5f, _) => Vector2.left,
+                        (> .5f, _) => Vector2.right,
+                        (_, < -.5f) => Vector2.down,
+                        (_, > .5f) => Vector2.up,
+                        _ => Vector2.zero
                 };
-
-        _tearDirection = finalDirection;
     }
 
     private void Shoot()
