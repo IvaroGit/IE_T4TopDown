@@ -1,6 +1,3 @@
-using System.Collections;
-using UnityEngine;
-using UnityEngine.InputSystem;
 using Unity.Scripting.LifecycleManagement;
 
 public partial class HandlePlayer : MonoBehaviour
@@ -30,7 +27,7 @@ public partial class HandlePlayer : MonoBehaviour
     private int maxHearts = 10;
 
     [SerializeField]
-    private GameObject heartDisplay;
+    private Transform heartDisplay;
 
     [SerializeField]
     private GameObject heart;
@@ -120,6 +117,16 @@ public partial class HandlePlayer : MonoBehaviour
         Vector2 direction = v.Get<Vector2>();
         Vector2 finalDirection = Vector2.zero;
 
+        (finalDirection.x, finalDirection.y) =
+                (direction.x, direction.y) switch
+                {
+                        (< -.5f, _) => (-1, 0),
+                        (> .5f, _) => (1, 0),
+                        (_, < -.5f) => (0, -1),
+                        (_, > .5f) => (0, 1),
+                        _ => (0, 0)
+                };
+/*
         if (direction.x < -.5f)
         {
             finalDirection.x = -1;
@@ -143,7 +150,7 @@ public partial class HandlePlayer : MonoBehaviour
             finalDirection.x = 0;
             finalDirection.y = 1;
         }
-
+*/
         _tearDirection = finalDirection;
     }
 
@@ -184,23 +191,19 @@ public partial class HandlePlayer : MonoBehaviour
     {
         _displayedHearts = _hearts;
 
-        foreach (Transform child in heartDisplay.transform)
+        foreach (Transform child in heartDisplay)
         {
             GameObject.Destroy(child.gameObject);
         }
 
         for (int i = 0; i < _hearts; i++)
         {
-            var newHeart = Instantiate(heart);
-
-            newHeart.transform.SetParent(heartDisplay.transform, false);
+            Instantiate(heart,heartDisplay);
         }
 
         if (addHalfHeart)
         {
-            var newHeart = Instantiate(halfHeart);
-
-            newHeart.transform.SetParent(heartDisplay.transform, false);
+            Instantiate(halfHeart,heartDisplay);
         }
     }
 }

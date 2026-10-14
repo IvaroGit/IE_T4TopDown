@@ -1,10 +1,34 @@
-using System;
-using UnityEngine;
-using System.Collections;
-using System.Collections.Generic;
-
 public class FloatingHost : MonoBehaviour
 {
+    [SerializeField]
+    private float patrolSpeed = 3f;
+
+    [SerializeField]
+    private float chargeSpeed = 7f;
+
+    [SerializeField]
+    private float shotSpeed = 4f;
+
+    [SerializeField]
+    private float alignTolerance = 0.3f;
+
+    [SerializeField]
+    private float coolDownTime = 0.5f;
+
+    [SerializeField]
+    private float pauseTime = 1f;
+
+    [SerializeField]
+    private float detectionRange = 5f;
+
+    [SerializeField]
+    private GameObject homingShot;
+
+    [SerializeField]
+    public LayerMask obstacleMask;
+
+    private static readonly int ShootHash = Animator.StringToHash("Shoot");
+
     enum State
     {
         Patrol,
@@ -12,48 +36,19 @@ public class FloatingHost : MonoBehaviour
         Pause
     }
 
-    [SerializeField] 
-    private float patrolSpeed = 3f;
-
-    [SerializeField] 
-    private float chargeSpeed = 7f;
-
-    [SerializeField] 
-    private float shotSpeed = 4f;
-
-    [SerializeField] 
-    private float alignTolerance = 0.3f;
-
-    [SerializeField] 
-    private float coolDownTime = 0.5f;
-
-    [SerializeField] 
-    private float pauseTime = 1f;
-
-    [SerializeField] 
-    private float detectionRange = 5f;
-
-    [SerializeField] 
-    private GameObject homingShot;
-
-    [SerializeField] 
-    public LayerMask obstacleMask;
-
     private Rigidbody2D _rb;
-    private Transform _player;
-    private Animator _anim;
-    private static readonly int shootHash = Animator.StringToHash("Shoot");
+    private Transform   _player;
+    private Animator    _anim;
 
-    private State _state = State.Patrol;
+    private State   _state   = State.Patrol;
     private Vector2 _moveDir = Vector2.right;
     private Vector2 _chargeDir;
-    
 
     void Start()
     {
-        _rb = GetComponent<Rigidbody2D>();
+        _rb     = GetComponent<Rigidbody2D>();
         _player = GameObject.FindGameObjectWithTag("Player").transform;
-        _anim = GetComponent<Animator>();
+        _anim   = GetComponent<Animator>();
     }
 
     void FixedUpdate()
@@ -76,33 +71,34 @@ public class FloatingHost : MonoBehaviour
     void CheckForPlayer()
     {
         Vector2 diff = (Vector2)_player.position - _rb.position;
-        if (diff.magnitude > detectionRange)
+
+        if (diff.sqrMagnitude > detectionRange)
         {
             return;
         }
 
-        Vector2 _dir;
+        Vector2 dir;
 
         if (Mathf.Abs(diff.x) < alignTolerance)
         {
-            _dir = new Vector2(0, Mathf.Sign(diff.y));
+            dir = new Vector2(0, Mathf.Sign(diff.y));
         }
         else if (Mathf.Abs(diff.y) < alignTolerance)
         {
-            _dir = new Vector2(Mathf.Sign(diff.x), 0);
+            dir = new Vector2(Mathf.Sign(diff.x), 0);
         }
         else
         {
             return;
         }
 
-        if (Physics2D.Raycast(_rb.position, _dir, diff.magnitude, obstacleMask))
+        if (Physics2D.Raycast(_rb.position, dir, diff.magnitude, obstacleMask))
         {
             return;
         }
 
-        _chargeDir = _dir;
-        _state = State.Charge;
+        _chargeDir = dir;
+        _state     = State.Charge;
     }
 
     void OnCollisionEnter2D(Collision2D collision)
@@ -111,7 +107,7 @@ public class FloatingHost : MonoBehaviour
         {
             return;
         }
-        
+
         if (_state == State.Patrol)
         {
             _moveDir = new Vector2(-_moveDir.y, _moveDir.x);
@@ -125,14 +121,14 @@ public class FloatingHost : MonoBehaviour
     IEnumerator AfterCharge()
     {
         _state = State.Pause;
-        _anim.SetTrigger(shootHash);
+        _anim.SetTrigger(ShootHash);
         yield return new WaitForSeconds(pauseTime);
-        
+
         Fire();
         yield return new WaitForSeconds(coolDownTime);
 
         _moveDir = new Vector2(-_chargeDir.y, _chargeDir.x);
-        _state = State.Patrol;
+        _state   = State.Patrol;
     }
 
     void Fire()
