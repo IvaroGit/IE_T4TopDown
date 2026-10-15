@@ -1,6 +1,8 @@
+using UnityEngine;
+
 public class ContactDamage : MonoBehaviour
 {
-    [SerializeField]
+    [SerializeField] 
     private float hurtCooldown = 2f;
 
     private float _nextHurtTime;
@@ -19,9 +21,8 @@ public class ContactDamage : MonoBehaviour
         {
             return;
         }
-
+        
         _nextHurtTime = Time.time + hurtCooldown;
-
         HandlePlayer.hearts--;
     }
 }
